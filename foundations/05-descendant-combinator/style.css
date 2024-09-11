@@ -1,0 +1,7 @@
+/* Added descendant combinator of type and class */
+div .text {
+  background-color: hsl(58, 94%, 50%);
+  color: #e20707;
+  font-size: 20px;
+  text-align: center;
+}
